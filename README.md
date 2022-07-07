@@ -1,6 +1,8 @@
 # Salty-Ghost-Script
 Herramienta de optimizacion y mantenimiento de Windows 10/11
+
 ![image](https://user-images.githubusercontent.com/108878822/177781276-e28583a6-c2a3-4837-b8c6-4b7c4e1b099c.png)
+
 
 Hola, gracias por seguir este proyecto. 
 Esta es una herramienta que por el momento se encuentra dividida en 5 secciones:
@@ -13,11 +15,17 @@ Esto lo hemos logrado modificando y reparando el codigo original de los AME scri
 ![image](https://user-images.githubusercontent.com/108878822/177790800-40d30faf-edb4-4c94-ac08-3210c15da2bd.png)
 
 En esta seccion se complementara con software de codigo abierto el sistema ya que reemplazara el hueco dejado por Windows Defender y entre otras utilidades como: 
+
 1 SDIO. Para la actualizacion de drivers debido a que se deshabilita la opcion de Windows Update para ofrecer Drivers.
+
 2 VLC. Reproduccion de contenido multimedia por modificaciones a Windows Media Player
+
 3 7Zip Al no haber herramienta de descompresion de Windows.
+
 4 jpegview  Como visor de imagenes 
+
 5 Immunet Como una alternativa ligera de Antimalware por la ausencia de Windows Defender.
+
 Estas herramientas son descargadas en tiempo real desde los repositorios de Chocolatey.
 
 ![image](https://user-images.githubusercontent.com/108878822/177790229-a1274a9f-912e-43ca-b324-c88b91dfa53f.png)
@@ -31,4 +39,6 @@ Esta seccion tiene como objetivo aprovechar las mismas herramientas de Windows p
 
 ![image](https://user-images.githubusercontent.com/108878822/177790335-78a77594-eb84-4f4c-bf39-a8c01a6af7a5.png)
 
-Como su nombre lo indica es un acceso inmediato para reiniciar el sistema al final del proceso. Lo cual recomendamos ampliamente para ver los resultados de la optimizacion en su totalidad.
+Como su nombre lo indica es un acceso inmediato para reiniciar el sistema al final del proceso. Lo cual recomendamos ampliamente para ver aplicados los cambios en su totalidad.
+
+Como ultimo cabe recordar que este Script es recomendado para usuarios individuales domesticos no empresariales y su uso es completa responsabilidad del usuario.
