@@ -1,6 +1,7 @@
 # Salty-Ghost-Script
 Herramienta de optimizacion y mantenimiento de Windows 10/11
 ![image](https://user-images.githubusercontent.com/108878822/177781276-e28583a6-c2a3-4837-b8c6-4b7c4e1b099c.png)
+
 Hola, gracias por seguir este proyecto. Esta es una herramienta que por el momento se encuentra dividida en 5 secciones:
 OPTIMIZACION
 El objetivo de esta seccion es remover por completo las aplicaciones/bloatware instalado por defecto en Windows, asi mismo se configuraran servicios para deshabilitar aquellos que no tienen funciones para la mayoria de los usuarios no empresariales. Se remueve Windows Defender el cual causa problemas de rendimiento constantes, One Drive y se purga el panel de control dejando solo opciones basicas para el usuario. A pesar de las modificaciones Windows Update no esta desactivado ha sido mejorado para solo ofrecer actualizaciones de seguridad.
