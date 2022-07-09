@@ -1,18 +1,18 @@
-# Description
+# Descripción
 
-Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Incluya un resumen de los cambios y el problema relacionado. Incluya suficiente contexto y motivo. Enumere las dependencias necesarias para este cambio.
 
-Fixes # (issue)
+Corrige # (problema)
 
-## Type of change
+## Tipo de cambio
 
-Please delete options that are not relevant.
+Elimine las opciones que no sean relevantes.
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+- [ ] Corrección de errores (cambio continuo que soluciona un problema)
+- [ ] Nueva característica (cambio continuo que agrega funcionalidad)
+- [ ] Cambio importante (arreglo o característica que haría que la funcionalidad existente no funcionara como se esperaba)
+- [ ] Este cambio requiere una actualización de la documentación
 
-## Screenshots (if appropriate):
+## Capturas de pantalla (si corresponde):
 
-IMPORTANT: Please review the [CONTRIBUTING.md](../CONTRIBUTING.md) file for detailed contributing guidelines.
+IMPORTANTE: revise el archivo [CONTRIBUTING.md](../CONTRIBUTING.md) para obtener pautas detalladas para contribuir.
