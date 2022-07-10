@@ -33,7 +33,7 @@ Estas herramientas son descargadas en tiempo real desde los repositorios de Choc
 El objetivo de esta seccion es desactivar los privilegios de administrador para seleccionar un tipo de usuario standard en nuestra cuenta de uso diario, la razon de esto es por el estudio de seguridad realizado por la firma de Ciberseguridad Avecto quienes determinaron que hasta el 94% de las 530 vulnerabilidades que se habian detectado en 2016, pueden mitigarse deshabilitando estos privilegios.
 El sistema funcionara con normalidad para el usuario comun, inclusive si requiere de funciones avanzadas se le pedira el permiso requerido, lo cual no causara problemas en la mayoria de los usuarios domesticos.
 
-![image](https://user-images.githubusercontent.com/108878822/177790883-4373230b-a544-4e85-8f13-b83810c9a467.png)
+![image](https://user-images.githubusercontent.com/108878822/178128341-30711a53-fea3-4c13-b340-25430d41e4ec.png)
 
 Esta seccion tiene como objetivo aprovechar las mismas herramientas de Windows para brindar un simple y rapido mantenimiento que incluye la herramienta de Windows Disk Clean-Up, eliminacion extra de archivos temporales, preload y archivos en la papelera de reciclaje, al finalizar este proceso concluira con la desfragmentacion de la unidad utilizando el mismo desfragmentador de Windows.
 
