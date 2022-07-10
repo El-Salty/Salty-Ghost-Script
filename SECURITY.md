@@ -6,5 +6,5 @@ elsalty@tutanota.com
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.x   | :X: |
+| 1.0   | :X: |
 
