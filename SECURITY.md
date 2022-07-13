@@ -1,4 +1,4 @@
-# Politica de seguridad
+#  Política de seguridad
 
 Si observa un problema grave que requiere atención inmediata, informe a la dirección de correo electrónico:: 
 
