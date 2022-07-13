@@ -1,8 +1,8 @@
-# Cómo contribuir
-En primer lugar, gracias por tomarse el tiempo para contribuir a este proyecto. Hemos intentado hacer un proyecto estable e intentar corregir errores y agregar nuevas características continuamente. Usted puede ayudarnos a hacer más.
+# Contribuciones
+En primer lugar, gracias por tomarse el tiempo para contribuir a este proyecto. Hemos intentado crear un proyecto estable e intentar corregir errores y agregar nuevas funciones continuamente. Puedes ayudarnos a hacer más.
 
-## Escribir código
-Echa un vistazo a la hoja Salty Ghost Script.txt. Si hay un error o una característica que no aparece en la página de problemas o no hay nadie asignado al problema, ¡no dudes en solucionarlo / agregarlo! Aunque es mejor discutirlo o crear un nuevo ticket para resolverlo.
+## Como Contribuir?
+Echa un vistazo a la version mas actual de Salty Ghost Script.txt en la carpeta [Releases](https://github.com/El-Salty/Salty-Ghost-Script/tree/main/Releases) Si hay un error o una característica que no aparece en la página de problemas, ayúdenos a crear un nuevo ticket para solucionarlo.
 
 ## Documentación
-Cada fragmento de código que puede ser difícil de entender. Si escribes algún código nuevo o cambias alguna parte del código existente, debe documentarse.
+Cualquier fragmento de código puede ser confuso. Si está escribiendo código nuevo o modificando cualquier parte del código existente, debe estar debidamente documentado.
