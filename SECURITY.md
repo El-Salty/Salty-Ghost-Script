@@ -1,10 +1,10 @@
 # Politica de seguridad
 
-En caso de encontrar un problema grave que requiera de atencion inmediata favor de reportarlo al correo: 
+Si observa un problema grave que requiere atención inmediata, informe a la dirección de correo electrónico:: 
 
 elsalty@tutanota.com
 
-| Version | Supported          |
+| Versión | Mantenida         |
 | ------- | ------------------ |
 | 1.1   | :X: |
 
