@@ -12,3 +12,7 @@ En caso de un problema grave siga las instrucciones en [SECURITY.md](https://git
 
 ## Documentación adecuada
 Cualquier fragmento de código puede ser confuso. Si está escribiendo código nuevo o modificando cualquier parte del código existente, debe estar debidamente documentado.
+
+## Aplicacion de Cambios
+En caso de que los cambios sugeridos sean aprobados se confirmara el ticket y en la próxima version se verán los cambios aplicados.
+El lapso de cambio dependerá del trabajo que se este llevando acabo y periodo de prueba.
