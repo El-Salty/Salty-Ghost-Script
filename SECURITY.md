@@ -7,5 +7,5 @@ elsalty@tutanota.com
 
 | Versión | Mantenida         |
 | ------- | ------------------ |
-| 1.1   | :X: |
+| 1.2   | :X: |
 
