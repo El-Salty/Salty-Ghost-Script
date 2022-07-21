@@ -12,7 +12,7 @@ Windows Defender, One Drive se eliminan y el Panel de control se configura para 
 
 ## 2: MANTENIMIENTO EN UN CLICK
 
-Esta sección está destinada a aprovechar y facilitar herramientas de limpieza de Windows para brindar un mantenimiento seguro y oportuno, incluido el Liberador de espacio en disco de Windows; La limpieza se amplía al agregar archivos temporales, preload, archivos en la papelera, entre otros, al final de esta sección el proceso terminará con la optimización de la unidad usando el mismo desfragmentador de Windows.
+Esta sección está destinada a aprovechar y facilitar herramientas de limpieza de Windows para brindar un mantenimiento seguro y oportuno, incluido el Liberador de espacio en disco de Windows; La limpieza se amplía al agregar archivos temporales, preload, archivos en la papelera, DNS flush entre otros, al final de esta sección el proceso terminará con la optimización de la unidad usando el mismo desfragmentador de Windows.
 
 ## 3: REINICIAR SISTEMA
 
