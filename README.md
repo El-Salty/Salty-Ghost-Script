@@ -16,9 +16,9 @@ Esta sección está destinada a aprovechar y facilitar herramientas de limpieza 
 
 ## 3: REINICIAR SISTEMA
 
-Como su nombre indica, es un acceso inmediato para reiniciar el sistema cuando finaliza el proceso. Recomendamos enfáticamente para poder ver los cambios completamente aplicados. 
+Este es un acceso inmediato para reiniciar el sistema cuando finaliza el proceso. Recomendamos reiniciar tu sistema al terminar cualquier mantenimiento u optimizacion para poder ver los cambios completamente aplicados. 
 
 ### Responsabilidad del Usuario
-Finalmente, tenga en cuenta que este Script está recomendado para personas no profesionales en el hogar, y su uso es responsabilidad exclusiva del usuario.
+Finalmente, tenga en cuenta que este Script está recomendado para usuarios de hogar, no se recomienda para pc's de trabajo o empresa y su uso es responsabilidad exclusiva del usuario.
 
 ### Basado e inspirado en [AME scripts](https://git.ameliorated.info/lucid/scripts). 
